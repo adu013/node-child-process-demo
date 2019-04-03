@@ -6,4 +6,7 @@ This app is implemented with the help of https://www.geeksforgeeks.org/run-pytho
 
 App server runs on port 3000.
 This can be accessed by http://localhost:3000.
+
+Start app by command "node index.js"
+
 Hit url e.g. http://localhost:3000/name?firstname=Michael&lastname=Jordan.
