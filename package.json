@@ -1,0 +1,14 @@
+{
+  "name": "process-and-child-process",
+  "version": "1.0.0",
+  "description": "This package provides an insight how to use child process in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arindam dutta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
